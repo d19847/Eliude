@@ -1,2 +1,0 @@
-# Eliude
-Desenvolvimemto
