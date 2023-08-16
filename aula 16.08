@@ -1,1 +1,36 @@
+<!DOCTYP html>
+</head>
+<body>
+<title>aula 16/08</title>
+</head>
+<body>
+<h1>aprendendo HTML</h1>
+<h2>iniciando2</h2>
+<h3>confira a imagem a seguir3</h3>
+<p>desenhos para tatoo.</p>
+<img width="180" height="180" src="https://colorindo.org/wp-content/uploads/2022/04/desenhos-de-tatuagem-para-imprimir.jpg"/>
+<img width="180" height="180"  src="https://static.vecteezy.com/ti/vetor-gratis/p3/5356723-design-de-ilustracao-de-borboleta-vintage-bom-para-tatuagem-gratis-vetor.jpg"/>
+<img width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2RCdmbe0K5mrW1DSZ-WB_iU14zAKO-0tUFg&usqp=CAU"/>
+<a href="pagina2.html">ir para outra pagina</a>
+</body>
+</html>
 
+
+
+
+<!DOCTYP html>
+</head>
+<body>
+<title>aula 16/08</title>
+</head>
+<body>
+<h1>aprendendo HTML</h1>
+<h2>iniciando2</h2>
+<h3>confira a imagem a seguir3</h3>
+<p>tatoo coloridas.</p>
+<img width="180" height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxsWilLlwFV3DhioCUOnq1ikdjpgyLddl2Q&usqp=CAU"/>
+<img width="180" height="180"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5dETykDjhz74sykrFIS8r7boV16yOn3la4g&usqp=CAU"/>
+<img width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRNpTSqUUaoCI132iydOp_8Hwkx9EO733Hw&usqp=CAU"/>
+<a href="index.html">volTar para a pagina anterior</a>
+</body>
+</html>
