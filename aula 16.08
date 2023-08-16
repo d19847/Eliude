@@ -1,6 +1,12 @@
 <!DOCTYP html>
 </head>
 <body>
+<style>
+body {background-color: powderblue;}
+h1 {color: red;}
+h2 {color: pink}
+p {color: brown}
+</style>
 <title>aula 16/08</title>
 </head>
 <body>
